@@ -3,7 +3,7 @@
 ## Step 1:
 All the layers are freezed except last layer or top layer or say output layer ,
 
-![screen1]
+![screen1](screen1.png)
 
 
 ## Step 2: 
