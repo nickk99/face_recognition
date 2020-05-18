@@ -17,7 +17,7 @@ To increase the no. of images ImageDataGenerator is used
 ![screen3](screen3.png)
 ## Step 5:
 Compilation and fitting process
-![screen4](screen4.png)
+![screen5](screen5.png)
 ## Step 6: 
 By using dictionary dataset names given to all the classes 
 
