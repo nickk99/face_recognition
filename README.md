@@ -3,6 +3,9 @@
 ## Step 1:
 All the layers are freezed except last layer or top layer or say output layer ,
 
+![screen1]
+
+
 ## Step 2: 
 The extra layers are added in the model before output layer 
 
