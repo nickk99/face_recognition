@@ -11,13 +11,13 @@ The extra layers are added in the model before output layer
 
 ## Step 3:
 After adding the new layers it have to combine with previous layers,
-
+![screen2](screen2.png)
 ## Step 4:
 To increase the no. of images ImageDataGenerator is used
-
+![screen3](screen3.png)
 ## Step 5:
 Compilation and fitting process
-
+![screen4](screen4.png)
 ## Step 6: 
 By using dictionary dataset names given to all the classes 
 
@@ -27,6 +27,5 @@ Taking random images from test folder
 ## Step 7:
 By using the cv2 library images are shown and text putted on predicted images
 
-## Step 8:
-Saving the model
+
 
